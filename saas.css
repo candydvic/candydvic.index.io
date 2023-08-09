@@ -1,0 +1,146 @@
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+body{
+    padding-left: 40px;
+    padding-right: 20px;
+    background-color: greenyellow;
+    @media screen {min-width: 60%;
+        
+    }
+}  
+.he{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.bicas{
+    background-color: aquamarine;
+}
+.bi{
+    color: rgb(12, 236, 161);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.head{
+    display: flex;
+    list-style: none;
+}
+li{
+    padding-right: 19px;
+}
+.sig{
+    display: flex;
+    list-style: none;  
+}
+.hom{
+    font-weight: 600;
+}
+.sign{
+    background-color:#65d565;
+    border-radius: 5px;
+    padding: 4px;    
+}
+/* headind ends */
+.second{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.demo{
+    display: flex;
+    margin-top: 20px;
+}
+.girl{
+    justify-items: flex-end;
+    position: relative;
+}
+.girlwrit{
+    display: flex;
+    background-color: white;
+    position: absolute;
+    width: 180px;
+    justify-content: center;
+    padding: 10px 8px;
+    border-radius: 9px;
+    margin-top: -180px;
+    margin-left: -90px;
+}
+.income{
+    margin-top: -50px;
+    margin-left: -50px;
+    position: absolute;
+    width: 10px;
+}
+.collabs{
+    text-align: center;
+    margin-top: 60px;
+    border: 2px pink solid;
+    
+}
+.notion{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    margin-top: 15px;
+}
+a{
+    text-decoration: none;
+}
+.support2{
+    margin-top: 100px;
+}
+.fstar{
+    margin-top: 15px;
+}
+.support{
+    display: flex;
+    justify-content: space-between;
+}
+.publish{
+    margin-top: 98px;
+}
+.partner p{
+    margin-top: 10px;
+}
+.features{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+.features a{
+    background-color: #65d565;
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+    font-size: 11px;
+}
+.team{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 22px;
+}
+.team p{
+    margin-top: 8px;
+}
+.bene{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.benefits{
+   
+}
+.benefits h2{
+    margin-bottom: 12px;
+}
+.benefits img{
+    margin-right: 8px;
+    width: 15px;
+}
+.benefits h5{
+    margin-bottom: 5px;
+}
+   
